@@ -6,6 +6,7 @@ body {
   /* property:value; is a CSS Rule */
   background-color: #fdfdfd;
   color: #0d0d0d;
+  font-family: "Poppins";
 }
 
 /* HEADER */
@@ -32,9 +33,23 @@ ul {
 }
 
 /* MAIN */
-main {
-  height: 100vh;
+.section{}
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+  width: 50 %;
 }
+
 
 /* FOOTER */
 footer {
